@@ -95,14 +95,8 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 ---
 
-## 🕯️ Bonfires Lit — Education
 
-| | Course | Status |
-|:---:|:---|:---:|
-| ◈ | SEU CURSO 1 | 🔄 In Progress |
-| ◈ | SEU CURSO 2 | 🔄 In Progress |
-| ◈ | SEU CURSO 3 | ✅ Complete |
-| ◈ | SEU CURSO 4 | ✅ Complete |
+
 
 ---
 
